@@ -7,7 +7,7 @@
 
 <MetaTags
 	title="ShidPad69"
-	description="Shidpad is a joke project that is supposed to be used for playing popular audio clips. It can be used to annoy someone while they are playing a video game or make a conversation funnier - the posibilities are endless."
+	description="shid"
 />
 
 <svelte:head>
